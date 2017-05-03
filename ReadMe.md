@@ -28,10 +28,10 @@ if($_SESSION[ A1 ] == $_POST[ 'some' ]) {
 
 #Notice
 =======
-# You could use function many times
-# You could add your standard fonts and these shows randomly
-# Also font folder just must have the ttf format files
-# Requirements PHP and GD library
+You could use function many times
+You could add your standard fonts and these shows randomly
+Also font folder just must have the ttf format files
+Requirements PHP and GD library
 
 
 Thanks for using

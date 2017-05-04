@@ -1,8 +1,13 @@
-#L A T C H  1.x
+#L A T C H  1.x 
 ===============
+PHP Captcha Class
 
 author  Hosein (hoseingoodarzi707@gmail.com)
 link    https://github.com/hoseingoodarzi/Latch
+
+#Introduction
+=============
+I wrote this captcha class for a small project and I think putting it here maybe help somebody.
 
 #Usage
 ======

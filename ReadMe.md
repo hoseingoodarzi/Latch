@@ -1,4 +1,4 @@
-#L A T C H  1.x 
+# L A T C H  1.x 
 ===============
 PHP Captcha Class
 
@@ -6,11 +6,11 @@ author  Hosein (hoseingoodarzi707@gmail.com)
 
 link    https://github.com/hoseingoodarzi/Latch
 
-#Introduction
+## Introduction
 =============
 I wrote this captcha class for a small project and I think putting it here maybe help somebody.
 
-##Usage
+## Usage
 ======
 Hi, for using captcha You should first add class to your file and insitiation of class
 
@@ -38,7 +38,7 @@ if($_SESSION[ A1 ] == md5($_POST[ 'some' ])) {
 // do something;
 }
 ```
-##Notice
+## Notice
 =======
 1. You could use function many times
 2. You could add your standard fonts and these shows randomly
@@ -50,4 +50,4 @@ Thanks for using
 
 If you have issue or suggestion about latch, please contact with me
 
-**gmail: hoseingoodarzi707
+**gmail: hoseingoodarzi707**
